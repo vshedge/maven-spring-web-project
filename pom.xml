@@ -169,9 +169,9 @@
     <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>crevise-snapshots</name>
-        <url>https://crevise.jfrog.io/crevise/ext-snapshot-local</url>
+        <name>devops-training-snapshots</name>
+        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
-    </distributionManagement>
+</distributionManagement>
 
 </project>
