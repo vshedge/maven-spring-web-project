@@ -133,7 +133,7 @@
 						<format>xml</format>
 					</formats>
 					<check>
-						<haltOnFailure>true</haltOnFailure>
+						<haltOnFailure>false</haltOnFailure>
 						<lineRate>95</lineRate>
 						<branchRate>95</branchRate>
 						<totalLineRate>95</totalLineRate>
